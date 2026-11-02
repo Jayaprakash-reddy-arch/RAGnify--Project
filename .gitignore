@@ -1,0 +1,6 @@
+.env
+.venv/
+_pycache_/
+*.pyc
+.ipynb_checkpoints/
+faiss_db/
